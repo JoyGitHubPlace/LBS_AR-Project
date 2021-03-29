@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Plugins/EModules/Hierarchy/Demo Scene/Hierarchy Example Scene.unity
+  isLoaded: 1
+  isActive: 1

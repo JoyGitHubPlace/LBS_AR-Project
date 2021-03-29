@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 9636717, guid: ac5f4bfb0f5a3894a80a58e0d2c29aa9, type: 3}
+  m_Name: Hierarchy (MAYA)
+  m_EditorClassIdentifier: 
+  last_scenes:
+  - d424a2e112155654abf917dbd562489c
+  - 88032aa5cd5de9d478e3cd1f94692805
+  m_hiddenComponents: []
+  modulesParamsType:
+  - EModules.EModulesInternal.Hierarchy+M_SetActive
+  - EModules.EModulesInternal.Hierarchy+M_Colors
+  - EModules.EModulesInternal.Hierarchy+M_Warning
+  - EModules.EModulesInternal.Hierarchy+M_Freeze
+  - EModules.EModulesInternal.Hierarchy+M_PrefabApply
+  - EModules.EModulesInternal.Hierarchy+M_Vertices
+  - EModules.EModulesInternal.Hierarchy+M_Audio
+  - EModules.EModulesInternal.Hierarchy+M_Tag
+  - EModules.EModulesInternal.Hierarchy+M_Layers
+  - EModules.EModulesInternal.Hierarchy+M_CustomIcons
+  - EModules.EModulesInternal.Hierarchy+M_Descript
+  modulesParamsClass:
+  - sib: -1
+    enable: 1
+    width: 16
+  - sib: -1
+    enable: 1
+    width: 16
+  - sib: -1
+    enable: 1
+    width: 16
+  - sib: 0
+    enable: 0
+    width: 16
+  - sib: 1
+    enable: 0
+    width: 16
+  - sib: 2
+    enable: 1
+    width: 28
+  - sib: 3
+    enable: 1
+    width: 16
+  - sib: 4
+    enable: 0
+    width: 48
+  - sib: 5
+    enable: 0
+    width: 48
+  - sib: 6
+    enable: 1
+    width: 48
+  - sib: 7
+    enable: 1
+    width: 68
+  lastIconSelect: []
+  listKey: []
+  listValue: []
