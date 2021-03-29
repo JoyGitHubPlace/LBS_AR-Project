@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman.CSharp.Plugins", "Pacman.CSharp.Plugins.csproj", "{FE657B71-FE68-61D4-058C-64D04C073649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman.CSharp", "Pacman.CSharp.csproj", "{5FAF4C78-4834-7777-BE05-509453FEAFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman.CSharp.Editor", "Pacman.CSharp.Editor.csproj", "{4E7EA53D-23B0-146A-47D7-E42DA93B464D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE657B71-FE68-61D4-058C-64D04C073649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE657B71-FE68-61D4-058C-64D04C073649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE657B71-FE68-61D4-058C-64D04C073649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE657B71-FE68-61D4-058C-64D04C073649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FAF4C78-4834-7777-BE05-509453FEAFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAF4C78-4834-7777-BE05-509453FEAFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAF4C78-4834-7777-BE05-509453FEAFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAF4C78-4834-7777-BE05-509453FEAFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7EA53D-23B0-146A-47D7-E42DA93B464D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7EA53D-23B0-146A-47D7-E42DA93B464D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7EA53D-23B0-146A-47D7-E42DA93B464D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7EA53D-23B0-146A-47D7-E42DA93B464D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
